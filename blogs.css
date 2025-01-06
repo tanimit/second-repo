@@ -1,0 +1,9 @@
+div{
+    background-color: teal;
+    padding: 60px;
+    margin: 50px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    box-shadow: 0 0 40px #000;
+
+}
